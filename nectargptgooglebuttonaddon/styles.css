@@ -1,0 +1,120 @@
+/* Variable to easily change the main colour */
+:root {
+    --teal: #74A99C;
+    --button-swap-delay: 1s;
+    --animation-duration: 0.6s;
+    --logo-animation-delay: 1.6s;
+}
+
+.Teal-Text {
+    color: var(--teal) !important;
+}
+
+/* Styling for the auto suggestions */
+.Teal-Text > div > span {
+    color: var(--teal) !important;
+    pointer-events: none;
+}
+
+.Flex-Center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Inline-Flex {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* ChatGPT Button Syles */
+.ChatGPT-Button {
+    background-color: var(--teal);
+    color: white;
+}
+
+.ChatGPT-Button:hover {
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+}
+
+.ChatGPT-Logo-Container {
+    overflow: hidden;
+    width: 0px;
+    height: 0px;
+    margin-right: 4px;
+    border-radius: 100%;
+    animation: LogoReveal var(--animation-duration) forwards;
+    animation-delay: var(--logo-animation-delay);
+}
+
+.ChatGPT-Logo {
+    width: 18px;
+    height: 18px;
+}
+
+/* Base button styles */
+.Button {
+    border: none;
+    border-radius: 4px;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    width: 142.5px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+/* The viewport to allow the roll effect */
+.Button-Container-Viewport {
+    flex-direction: column;
+    max-width: 152px;
+    max-height: 38px;
+    overflow: hidden;
+    display: inline-flex;
+    transform: translateY(10px);
+}
+
+/* The stack of buttons to create the nice roll and bounce in effect */
+.Button-Container {
+    display: flex;
+    flex-direction: column;
+    transform: translateY(-10px);
+    animation: BounceIn var(--animation-duration) forwards ease;
+    animation-delay: var(--button-swap-delay);
+}
+
+/* Nice little bounce animation */
+@keyframes BounceIn {
+    0% {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    60% {
+      opacity: 1;
+      transform: translateY(-70px);
+    }
+    80% { transform: translateY(-66px); }
+    100% { transform: translateY(-68px); }
+}
+
+/* Spin and Reveal animation for the logo */
+@keyframes LogoReveal {
+    0% {
+        opacity: 0;
+        width: 0px;
+        height: 0px;
+        transform: rotate(-180deg);
+    }
+    100% {
+        opacity: 1;
+        width: 18px;
+        height: 18px;
+        transform: rotate(0deg);
+    }
+}
