@@ -1,0 +1,61 @@
+{
+  "name": "NectarGPT browsing assistant",
+  "description": "NectarGPT - AI browsing assistant",
+  "default_locale": "en",
+  "version": "2.2.0",
+  "manifest_version": 3,
+  "icons": {
+    "16": "logo-16.png",
+    "32": "logo-32.png",
+    "48": "logo-48.png",
+    "128": "logo-128.png"
+  },
+  "host_permissions": [
+    "https://*.openai.com/"
+  ],
+  "permissions": [
+    "storage",
+    "activeTab",
+    "tabs",
+    "https://api.glarity.app/*",
+    "https://vi2vocal.s3.ap-northeast-1.amazonaws.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {},
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": true
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "GPT3TokenizerModules.js"
+      ],
+      "run_at": "document_start"
+    },
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "langchainModules.js"
+      ]
+    },
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content-script.js"
+      ],
+      "css": [
+        "content-script.css"
+      ]
+    }
+  ]
+}
