@@ -21,11 +21,11 @@
 
 <h2>Screenshots:</h2>
 <p align="center">
-  <img src="[https://imgur.com/wW9HT4R]" alt="supercharge google search with nectargpt" width="500" />
-  <img src="[https://imgur.com/zmGN3YX]" alt="NectarGPT" width="500" />
-  <img src="[https://imgur.com/iPSXASQ]" alt="NectarGPT" width="500" />
-  <img src="[https://imgur.com/aYfbzva]" alt="NectarGPT" width="500" />
-  <img src="[https://imgur.com/3Vj1bfb]" alt="NectarGPT" width="500" />
+  <img src="(https://imgur.com/wW9HT4R)" alt="supercharge google search with nectargpt" width="500" />
+  <img src="(https://imgur.com/zmGN3YX)" alt="NectarGPT" width="500" />
+  <img src="(https://imgur.com/iPSXASQ)" alt="NectarGPT" width="500" />
+  <img src="(https://imgur.com/aYfbzva)" alt="NectarGPT" width="500" />
+  <img src="(https://imgur.com/3Vj1bfb)" alt="NectarGPT" width="500" />
 </p>
 
 <h2>Installation:</h2>
