@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Los Angeles, CA</h3>
 
 - 🔭 This project is an AI assistant Chrome Extension named NectarGPT, powered by ChatGPT.
-- 🧡 ProductHunt: [NectarGPT is now live on product hunt!](https://www.producthunt.com/posts/nectar-gpt)
+- 🧡 ProductHunt: [NectarGPT is now live on Product Hunt!](https://www.producthunt.com/posts/nectar-gpt)
 - 📫 How to reach me: Instagram - [@realmattreid](https://www.instagram.com/realmattreid) or [@officialsphrex](https://www.instagram.com/officialsphrex).
 
 <h3 align="left">Connect with me:</h3>
@@ -21,11 +21,11 @@
 
 <h2>Screenshots:</h2>
 <p align="center">
-  <img src="[NectarGPT screenshot](https://imgur.com/wW9HT4R)" alt="supercharge google search with nectargpt" width="500" />
-  <img src="[NectarGPT screenshot](https://imgur.com/zmGN3YX)" alt="NectarGPT" width="500" />
-  <img src="[NectarGPT screenshot](https://imgur.com/iPSXASQ)" alt="NectarGPT" width="500" />
-  <img src="[NectarGPT screenshot](https://imgur.com/aYfbzva)" alt="NectarGPT" width="500" />
-  <img src="[NectarGPT screenshot](https://imgur.com/3Vj1bfb)" alt="NectarGPT" width="500" />
+  <img src="https://i.imgur.com/wW9HT4R.png" alt="supercharge google search with nectargpt" width="500" />
+  <img src="https://i.imgur.com/zmGN3YX.png" alt="NectarGPT" width="500" />
+  <img src="https://i.imgur.com/iPSXASQ.png" alt="NectarGPT" width="500" />
+  <img src="https://i.imgur.com/aYfbzva.png" alt="NectarGPT" width="500" />
+  <img src="https://i.imgur.com/3Vj1bfb.png" alt="NectarGPT" width="500" />
 </p>
 
 <h2>Installation:</h2>
@@ -52,4 +52,3 @@ After downloading the zip & opening the folder, follow these steps:
 4. Click on the "Load unpacked" button and select the folder where you extracted the downloaded files.
 
 Nectar is a conversational AI-powered Chrome extension that allows you to interact with an AI chatbot directly from your browser. Get instant answers to your questions, complete tasks, and have fun! Powered by GPT-2.
-
