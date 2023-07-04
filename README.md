@@ -5,7 +5,7 @@
 - 🧡 ProductHunt: [NectarGPT is now live on Product Hunt!](https://www.producthunt.com/posts/nectar-gpt)
 - 📫 How to reach me: Instagram - [@realmattreid](https://www.instagram.com/realmattreid) or [@officialsphrex](https://www.instagram.com/officialsphrex).
 
-<h3 align="left">download here! experience NectarGPT+: ChatGPT on steroids Your All-in-One AI Assistant today!</h3>
+<h3 align="left">download now!👇 experience NectarGPT+: ChatGPT on steroids Your All-in-One AI Assistant today!</h3>
 <p align="left">
   <a href="https://drive.google.com/uc?export=download&id=1KdsvD0TSf3oeO8jIX0GC6F09bc9fAd6z" target="_blank">
     <img align="center" src="https://i.imgur.com/1YN7xSF.png" alt="NectarGPT" height="30" width="30" />
