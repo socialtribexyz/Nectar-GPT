@@ -28,6 +28,7 @@
 
 <h2>Screenshots:</h2>
 <p align="center">
+  <img src="https://imgur.com/g7asn8t.png" alt="supercharge google search with nectargpt" width="500" />
   <img src="https://i.imgur.com/wW9HT4R.png" alt="supercharge google search with nectargpt" width="500" />
   <img src="https://i.imgur.com/zmGN3YX.png" alt="NectarGPT" width="500" />
   <img src="https://i.imgur.com/iPSXASQ.png" alt="NectarGPT" width="500" />
