@@ -4,10 +4,9 @@
 - 🔭 This project is an AI assistant Chrome Extension named NectarGPT, powered by ChatGPT.
 - 🧡 ProductHunt: [NectarGPT is now live on Product Hunt!](https://www.producthunt.com/posts/nectar-gpt)
 - 📫 How to reach me: Instagram - [@realmattreid](https://www.instagram.com/realmattreid) or [@officialsphrex](https://www.instagram.com/officialsphrex).
-- [try out NectarGPT+](https://nectarhub.xyz/)
 - [blog](https://blog.nectarhub.xyz/blog)
 
-<h3 align="left">download now!👇 experience NectarGPT+: ChatGPT on steroids Your All-in-One AI Assistant today!</h3>
+<h3 align="left">download now!👇 experience NectarGPT+:](https://nectarhub.xyz/) ChatGPT on steroids Your All-in-One AI Assistant today!</h3>
 <p align="left">
   <a href="https://drive.google.com/uc?export=download&id=1v_J2tpP0C9igQiv75EaaykC6XY-um8C_" target="_blank">
     <img align="center" src="https://i.imgur.com/1YN7xSF.png" alt="NectarGPT" height="30" width="30" />
