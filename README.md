@@ -8,8 +8,8 @@
 
 <h3 align="left">download now!👇 experience NectarGPT+: ChatGPT on steroids Your All-in-One AI Assistant today!</h3>
 <p align="left">
-  <a href="https://drive.google.com/uc?export=download&id=1v_J2tpP0C9igQiv75EaaykC6XY-um8C_" target="_blank">
-    <img align="center" src="https://i.imgur.com/1YN7xSF.png" alt="NectarGPT" height="30" width="30" />
+  <a href="https://dashboard.nectarhub.xyz/" target="_blank">
+    <img align="center" src="https://i.imgur.com/1YN7xSF.png" alt="NectarGPT AI assistant powered by openai" height="30" width="30" />
   </a>
 </p>
 
