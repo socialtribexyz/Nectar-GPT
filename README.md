@@ -32,7 +32,6 @@
   <img src="https://imgur.com/g7asn8t.png" alt="supercharge google search with nectargpt" width="500" />
   <img src="https://i.imgur.com/zmGN3YX.png" alt="NectarGPT" width="500" />
   <img src="https://i.imgur.com/iPSXASQ.png" alt="NectarGPT" width="500" />
-  <img src="https://i.imgur.com/mZj0uip.png" alt="supercharge google search with nectargpt" width="500" />
 </p>
 
 <h2>Installation:</h2>
