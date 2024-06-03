@@ -36,7 +36,7 @@
 
 <h2>Installation:</h2>
 
-<h1>Google Chrome:</h1>
+<h3>Google Chrome:</h3>
 After downloading the zip follow these steps:
 
 Download the zip file and extract its contents.
