@@ -44,41 +44,36 @@ Open your Google Chrome browser and go to chrome://extensions/.
 Enable the developer mode by clicking the toggle switch at the top right of the page.
 Click on the "Load unpacked" button and select the folder where you extracted the downloaded files.
 
-Opera:
+<h3>Opera:</h3>
 After downloading the zip follow these steps:
-
 Download the zip file and extract its contents.
 Open your Opera browser and go to opera://extensions/.
 Enable the developer mode by clicking the toggle switch at the top right of the page.
 Click on the "Load unpacked" button and select the folder where you extracted the downloaded files.
 
-Brave:
+<h3>Brave:</h3>
 After downloading the zip follow these steps:
-
 Download the zip file and extract its contents.
 Open your Brave browser and go to brave://extensions/.
 Enable the developer mode by clicking the toggle switch at the top right of the page.
 Click on the "Load unpacked" button and select the folder where you extracted the downloaded files.
 
-Yandex Browser:
+<h3>Yandex Browser:</h3>
 After downloading the zip follow these steps:
-
 Download the zip file and extract its contents.
 Open your Yandex Browser and go to browser://extensions/.
 Enable the developer mode by clicking the toggle switch at the top right of the page (if available).
 Click on the "Load unpacked" button and select the folder where you extracted the downloaded files.
 
-Vivaldi:
+<h3>Vivaldi:</h3>
 After downloading the zip follow these steps:
-
 Download the zip file and extract its contents.
 Open your Vivaldi browser and go to vivaldi://extensions/.
 Enable the developer mode by clicking the toggle switch at the top right of the page.
 Click on the "Load unpacked" button and select the folder where you extracted the downloaded files.
 
-Microsoft Edge:
+<h3>Microsoft Edge:</h3>
 After downloading the zip follow these steps:
-
 Download the zip file and extract its contents.
 Open your Microsoft Edge browser and go to edge://extensions/.
 Enable the developer mode by clicking the toggle switch at the bottom left of the page.
