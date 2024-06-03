@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 <h3 align="center">A passionate fullstack developer from Los Angeles, CA</h3>
 
-- 🔭 This project is an AI assistant Chrome Extension named [NectarGPT](https://nectarhub.xyz/), powered by ChatGPT.
+- 🔭 This project is an AI assistant Chrome Extension named [NectarGPT](https://nectarhub.xyz/), powered by GPT X
 - 🧡 ProductHunt: [NectarGPT is now live on Product Hunt!](https://www.producthunt.com/posts/nectar-gpt)
 - 📫 How to reach me: Instagram - [@realmattreid](https://www.instagram.com/realmattreid) or [@officialsphrex](https://www.instagram.com/officialsphrex).
 - [blog](https://blog.nectarhub.xyz/blog)
 
-<h3 align="left">download now!👇 experience NectarGPT+: ChatGPT on steroids Your All-in-One AI Assistant today!</h3>
+<h3 align="left">download now!👇 experience NectarGPT+: AI on steroids Your All-in-One AI Assistant!</h3>
 <p align="left">
   <a href="https://drive.google.com/uc?export=download&id=1IGwiAJYxeB7z5kOY2X9i5cxRuolKUQYA" target="_blank">
     <img align="center" src="https://i.imgur.com/1YN7xSF.png" alt="NectarGPT AI assistant powered by openai" height="30" width="30" />
@@ -36,8 +36,8 @@
 
 <h2>Installation:</h2>
 
-Google Chrome:
-After downloading the zip & opening the folder, follow these steps:
+<h1>Google Chrome:</h1>
+After downloading the zip follow these steps:
 
 Download the zip file and extract its contents.
 Open your Google Chrome browser and go to chrome://extensions/.
